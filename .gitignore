@@ -57,3 +57,5 @@ typings/
 # dotenv environment variables file
 .env
 
+# markdown
+deploy_nodejs_app_to_gae.markdown
